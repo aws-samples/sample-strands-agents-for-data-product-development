@@ -1,0 +1,6 @@
+{
+    "sample_source_data": "folder/path/to/your/sample/data/",
+    "data_model_output_folder": "folder/path/to/save/data/model/",
+    "generated_code_location": "file/path/to/save/python/code.py",
+    "data_product_folder": "folder/path/to/save/data/product/"
+}

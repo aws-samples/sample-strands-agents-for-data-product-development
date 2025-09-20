@@ -1,0 +1,5 @@
+strands-agents
+botocore
+pandas
+strands-agents-tools
+strands-agents-builder
